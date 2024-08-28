@@ -51,8 +51,4 @@ The **Daily Habit Tracker** is a web application designed to help users build an
 - Node.js and npm installed on your machine.
 - MongoDB installed and running.
 
-### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/daily-habit-tracker.git
-   cd daily-habit-tracker/backend
+
