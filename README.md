@@ -2,15 +2,6 @@
 
 The **Daily Habit Tracker** is a web application designed to help users build and maintain positive habits over time. It enables users to track their daily activities, set goals, and visualize their progress.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Add New Habits**: Users can create new habits they want to develop, such as exercising, reading, meditating, or drinking water. Each habit entry can include details like the habit name, description, and completion status.
