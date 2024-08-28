@@ -36,10 +36,3 @@ The **Daily Habit Tracker** is a web application designed to help users build an
 - **HTTP Client**:
   - Axios
 
-## Installation
-
-### Prerequisites
-- Node.js and npm installed on your machine.
-- MongoDB installed and running.
-
-
